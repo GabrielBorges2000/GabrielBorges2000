@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there! My name is Gabriel 👋
 
-<!--
-**GabrielBorges2000/GabrielBorges2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working at X-Point.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+CSS
+JavaScript
+ReactJS
+ReactNative
+TypeScrip 
+Node
+
+- 🤔 I’m looking for help with JavaScrip and ReactNative.
+
+- 📫 How to reach me: 
+
+My e-mail: gabriel.vscode@gmail.com
+My number Whatsapp: +55 (11) 93435-4029
+my number: +55 (11) 98623-7504
+
