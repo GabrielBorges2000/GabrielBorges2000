@@ -40,8 +40,6 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![Vite](https://img.shields.io/badge/-vite-0D1117?style=for-the-badge&logo=vite&labelColor=0D1117)&nbsp;
-![Unreal Engine](https://user-images.githubusercontent.com/112534393/196506528-a7cda16d-fc09-47e9-986e-c80e8db78bc4.png)
-&nbsp;
 
 ### Studying in this moment:
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
