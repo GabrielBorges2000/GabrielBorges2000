@@ -4,12 +4,12 @@
 
 - 🌱 I’m currently learning:
 
-HTML
-CSS
-JavaScript
-ReactJS
-ReactNative
-TypeScrip 
+HTML,<br>
+CSS,
+JavaScript,
+ReactJS,
+ReactNative,
+TypeScrip ,
 Node
 
 - 🤔 I’m looking for help with JavaScrip and ReactNative.
