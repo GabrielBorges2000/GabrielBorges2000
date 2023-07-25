@@ -1,18 +1,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá eu me chamo Gabriel, Tenho 22 anos e sou programador <strong>Front-End</strong>.<br>
+  Olá eu me chamo Gabriel, Tenho 23 anos e sou programador <strong>Full-Stack</strong>.<br>
 </p>
 <p align="left"> 
-  Atualmente sou estudante e estou a procura de uma nova oportunidade de emprego.
+  Atualmente sou estudante e freelancer, mas estou a procura de uma nova oportunidade.
 </p>
 
 
 
-
-
-
-## 🚀 Minhas Skills
+## 🚀 Minhas Principais Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -45,9 +42,6 @@
 <p align="left">
   💌 Você pode me achar nas seguintes plataformas: ⤵️
 </p>
-
-
-
 
 
 <p align="left">
