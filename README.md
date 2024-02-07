@@ -11,30 +11,40 @@
 
 ## 🚀 Minhas Principais Skills
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=html&theme=light" alt="html"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=css&theme=light" alt="css"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=js&theme=light" alt="javascript"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=ts&theme=light" alt="typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=vite&theme=light" alt="Nodejs"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=react&native&theme=light" alt="react Native"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=vite&theme=dark" alt="vite"/></code>
 <code><img height="32" src="https://nextjs.org/static/favicon/favicon-32x32.png" alt="NextJS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Nodejs"/></code>
 
-<code><img height="32" src="https://skillicons.dev/icons?i=styledcomponents&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=materialui&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=prisma&theme=light" alt="Nodejs"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=styledcomponents&theme=light" alt="styled components"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailndcss"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=materialui&theme=dark" alt="material ui"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=prisma&theme=light" alt="prisma"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=mysql&theme=light" alt="mysql"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgres"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=sqlite&theme=light" alt="sqllite"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=electron&theme=light" alt="electron"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=docker&theme=light" alt="docker"/></code>
+
+<code><img height="32" src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=light" alt="ai"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=express&theme=dark" alt="express"/></code>
 
 
 ## 💼 Ferramentas de trabalho:
 
-<code><img height="32" src="https://skillicons.dev/icons?i=ps&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=git&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=github&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=figma&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=netlify&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Nodejs"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=ps&theme=light" alt="photoshop"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=vscode&theme=light" alt="VsCode"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=git&theme=light" alt="git"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=figma&theme=light" alt="figma"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=netlify&theme=light" alt="netlify"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel"/></code>
 
 
 <p align="left">
