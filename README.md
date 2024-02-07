@@ -4,7 +4,7 @@
   Olá eu me chamo Gabriel, Tenho 23 anos e sou programador <strong>Full-Stack</strong>.<br>
 </p>
 <p align="left"> 
-  Atualmente sou estudante e freelancer, mas estou a procura de uma nova oportunidade.
+  Como dev meu compromisso é criar solução inovadoras para facilitar a vida das pessoas através da técnologia.
 </p>
 
 
@@ -24,7 +24,6 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=light" alt="Nodejs"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=materialui&theme=light" alt="Nodejs"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=prisma&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=redux&theme=light" alt="Nodejs"/></code>
 
 
 ## 💼 Ferramentas de trabalho:
@@ -36,7 +35,6 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=figma&theme=light" alt="Nodejs"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=netlify&theme=light" alt="Nodejs"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=unreal&theme=light" alt="Nodejs"/></code>
 
 
 <p align="left">
