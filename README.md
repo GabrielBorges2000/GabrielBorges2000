@@ -54,7 +54,7 @@
 
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/gabriel-borges-7bb048250/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/GabrielBorges2000/" target='_blank' alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
 </p> 
