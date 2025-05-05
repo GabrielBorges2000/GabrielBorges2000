@@ -17,6 +17,7 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=react&theme=dark" alt="React"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=react&native&theme=light" alt="react Native"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="NextJS"/></code>
+
 <code><img height="32" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Nodejs"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="Nestjs"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailndcss"/></code>
