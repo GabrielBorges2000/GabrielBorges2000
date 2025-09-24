@@ -19,10 +19,12 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="NextJS"/></code>
 
 <code><img height="32" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Nodejs"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=fastify&theme=dark" alt="fastify"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="Nestjs"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailndcss"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=electron&theme=dark" alt="electron"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=dark" alt="ai"/></code>
 
 <code><img height="32" src="https://skillicons.dev/icons?i=prisma&theme=dark" alt="prisma"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="mysql"/></code>
@@ -30,15 +32,19 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=redis&theme=dark" alt="redis"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="sqllite"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="supabase"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="girabbitmqthub"/></code>
 
 <code><img height="32" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="docker"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="terraform"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=github&theme=dark" alt="github"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=git&theme=dark" alt="git"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="github actions"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=rabbitmq&theme=dark" alt="girabbitmqthub"/></code>
+<code><img height="32" src="https://skillicons.dev/icons?i=aws&theme=dark" alt="aws"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=vercel&theme=light" alt="Vercel"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=netlify&theme=light" alt="netlify"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=ai&theme=dark" alt="ai"/></code>
+
+
+
 
 
 ## 💼 Ferramentas de trabalho:
