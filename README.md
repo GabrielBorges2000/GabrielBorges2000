@@ -19,7 +19,6 @@
 <code><img height="32" src="https://skillicons.dev/icons?i=nextjs&theme=dark" alt="NextJS"/></code>
 
 <code><img height="32" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Nodejs"/></code>
-<code><img height="32" src="https://skillicons.dev/icons?i=fastify&theme=dark" alt="fastify"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=nestjs&theme=dark" alt="Nestjs"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="tailndcss"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=vitest&theme=dark" alt="vitest"/></code>
