@@ -70,13 +70,13 @@
 <table style="border: none;">
   <tr>
     <td style="border: none;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=GabrielBorges2000&theme=tokyonight" alt="GabrielBorges2000's GitHub Stats" style="border: none;" />
+      <a href="https://github.com/anuraghazra/github-stats-extended">
+        <img src="https://github-stats-extended.vercel.app/api?username=GabrielBorges2000&theme=tokyonight" alt="GabrielBorges2000's GitHub Stats" style="border: none;" />
       </a>
     </td>
     <td style="border: none;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBorges2000&hide=html&layout=compact&theme=tokyonight" alt="GabrielBorges2000's Top Languages" style="border: none;" />
+      <a href="https://github.com/anuraghazra/github-stats-extended">
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=GabrielBorges2000&hide=html&layout=compact&theme=tokyonight" alt="GabrielBorges2000's Top Languages" style="border: none;" />
       </a>
     </td>
   </tr>
